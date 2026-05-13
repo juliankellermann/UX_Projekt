@@ -17,7 +17,6 @@ Als zentrales Interaktionsgerät kommt ein **Skywriter-Gesten-Sensor** zum Einsa
 * **Schnittstellen:** UDP-Netzwerkprotokoll, Python (für das Raspberry Pi Ausleseskript)
 
 ## Kontext
-Dieses Projekt entstand im Rahmen eines UX-Projekts an der TH Deggendorf zur Erforschung moderner Mensch-Maschine-Interaktion in der Industrie.
-
+Dieses Projekt entstand im Rahmen des Kurses Usability Interaktion und User Interface Design an der TH Deggendorf
 ---
 *Entwickelt von Julian Kellermann*
