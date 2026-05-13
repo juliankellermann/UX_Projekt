@@ -18,5 +18,6 @@ Als zentrales Interaktionsgerät kommt ein **Skywriter-Gesten-Sensor** zum Einsa
 
 ## Kontext
 * Dieses Projekt entstand im Rahmen des Kurses Usability Interaktion und User Interface Design an der TH Deggendorf.
+* Dabei lag der Fokus der Entwicklung bewusst auf der Konzeption und technischen Umsetzung der Interaktionsmetaphern, weshalb das visuelle Design der 3D-Objekte und der Umgebung zweitrangig behandelt wurde.
 ---
 *Entwickelt von Julian Kellermann*
